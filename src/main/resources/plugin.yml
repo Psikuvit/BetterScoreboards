@@ -1,0 +1,6 @@
+name: BetterScoreboards
+version: '${project.version}'
+main: me.psikuvit.betterscoreboards.BetterScoreboards
+api-version: 1.13
+commands:
+  bs:
